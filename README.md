@@ -5,10 +5,24 @@
 -->
 
 - 🔭 Coordenador de desenvolvimento na Fácil Informática
-- 🌱 Atuo com C#, .net WebForms, WinForms, COM Addin, JS, React Native, Electron
-- 💬 Conhecendo novas areas React, NodeJS, Mongo
+- 🌱 Experiência: 
+        -> C# .net Framework 4.0 ~ 4.8
+        -> WebForms
+        -> WinForms
+        -> Microsoft Office COM Addin
+          - Addin Express
+          - DevExpress
+          - Redemption
+          - Microsoft Office Interop - VSTO
+        -> Banco de dados relacional - MS SQL Server
+        -> Tecnologias web padrões HTML, CSS, JS
+        -> React Native
+        -> Electron
+        -> QuillJS - Data transformation em tempo real para editores WYSIWYG
+            
+- 💬 Conhecendo novas areas ReactJS, NodeJS, Mongo
 - 📫 Linkedin: https://www.linkedin.com/in/anderson-rissardi-549bb976/
-- 😄 Formando em Sistemas da informação na FURB
+- 😄 Formado em Sistemas da informação na FURB 2016
 - ⚡ Camisa 10 e desenvolvendo por diversão
 
 ### Stats:
