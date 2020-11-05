@@ -6,6 +6,7 @@
 
 - 🔭 Coordenador de desenvolvimento na Fácil Informática
 - 🌱 Experiência: 
+
         -> C# .net Framework 4.0 ~ 4.8
         -> WebForms
         -> WinForms
@@ -18,8 +19,7 @@
         -> Tecnologias web padrões HTML, CSS, JS
         -> React Native
         -> Electron
-        -> QuillJS - Data transformation em tempo real para editores WYSIWYG
-            
+        -> QuillJS - Data transformation em tempo real para editores WYSIWYG         
 - 💬 Conhecendo novas areas ReactJS, NodeJS, Mongo
 - 📫 Linkedin: https://www.linkedin.com/in/anderson-rissardi-549bb976/
 - 😄 Formado em Sistemas da informação na FURB 2016
