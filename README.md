@@ -30,5 +30,5 @@
 
 
 ### WebDev profile:
-![Profile](https://api.daily.dev/devcards/6ea86f284a1d4f268c4f1e2dce097bce.png?r=of7)
+![Profile](https://api.daily.dev/devcards/6ea86f284a1d4f268c4f1e2dce097bce.png?r=of7 =400x525)
 
