@@ -30,5 +30,5 @@
 
 
 ### WebDev profile:
-![Profile](https://api.daily.dev/devcards/6ea86f284a1d4f268c4f1e2dce097bce.png?r=of7 =400x525)
+<a href="https://app.daily.dev/arissardi"><img src="https://api.daily.dev/devcards/6ea86f284a1d4f268c4f1e2dce097bce.png?r=of7" width="400" alt="Anderson Rissardi's Dev Card"/></a>
 
