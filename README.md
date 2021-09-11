@@ -21,7 +21,7 @@
         -> Electron
         -> QuillJS - Data transformation em tempo real para editores WYSIWYG         
 - 💬 Conhecendo novas areas ReactJS, NodeJS, Mongo
-- 📫 Linkedin: https://www.linkedin.com/in/anderson-rissardi-549bb976/
+- 📫 Linkedin: https://www.linkedin.com/in/andersonrissardi
 - 😄 Formado em Sistemas da informação na FURB 2016
 - ⚡ Camisa 10 e desenvolvendo por diversão
 
