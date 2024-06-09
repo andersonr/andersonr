@@ -19,6 +19,7 @@ Another cool articles about the Engineer Manager Pendulum role ![here](https://c
         -> Legal ERP system's      
                 
 ## 📫 Contacts(Linkedin) and more
+For some reason that I don't know why, I have another Github account only for the company that I'm currently working on, check my contributions here😄 ![Company Github](https://github.com/5arissardi?tab=overview)
 - pt: ![https://www.linkedin.com/in/andersonrissardi](https://www.linkedin.com/in/andersonrissardi/)
 - en: ![https://www.linkedin.com/in/andersonrissardi](https://www.linkedin.com/in/andersonrissardi/?locale=en_US)       
 - 😄 Graduated in Information Systems at FURB 2016
